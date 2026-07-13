@@ -19,7 +19,7 @@ namespace ETV_Book_Library_C_Sherp
 
         public clsDBConn()
         {
-            _dbConn = new SqlConnection("Data Source=192.168.11.130;Initial Catalog=ETVBookLibraryT;User ID=sa;Password=arunarun");
+            _dbConn = new SqlConnection("Data Source=192.168.11.130;Initial Catalog=ETVBookLibraryT;User ID=sa;Password=db-password");
             _dbConn.Open();
 
         }
