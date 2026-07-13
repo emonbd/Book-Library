@@ -1,0 +1,30 @@
+E:\My Docs\ETV Pro\Visual Studio\ETV Pro VS\ETV Book Library C-Sherp\ETV Book Library C-Sherp\bin\Debug\ETV Book Library C-Sherp.exe.config
+E:\My Docs\ETV Pro\Visual Studio\ETV Pro VS\ETV Book Library C-Sherp\ETV Book Library C-Sherp\bin\Debug\ETV Book Library C-Sherp.exe
+E:\My Docs\ETV Pro\Visual Studio\ETV Pro VS\ETV Book Library C-Sherp\ETV Book Library C-Sherp\bin\Debug\ETV Book Library C-Sherp.pdb
+E:\My Docs\ETV Pro\Visual Studio\ETV Pro VS\ETV Book Library C-Sherp\ETV Book Library C-Sherp\obj\Debug\ETV Book Library C-Sherp.csprojResolveAssemblyReference.cache
+E:\My Docs\ETV Pro\Visual Studio\ETV Pro VS\ETV Book Library C-Sherp\ETV Book Library C-Sherp\obj\Debug\ETV_Book_Library_C_Sherp.mdiMain.resources
+E:\My Docs\ETV Pro\Visual Studio\ETV Pro VS\ETV Book Library C-Sherp\ETV Book Library C-Sherp\obj\Debug\ETV_Book_Library_C_Sherp.Properties.Resources.resources
+E:\My Docs\ETV Pro\Visual Studio\ETV Pro VS\ETV Book Library C-Sherp\ETV Book Library C-Sherp\obj\Debug\ETV Book Library C-Sherp.csproj.GenerateResource.Cache
+E:\My Docs\ETV Pro\Visual Studio\ETV Pro VS\ETV Book Library C-Sherp\ETV Book Library C-Sherp\obj\Debug\ETV Book Library C-Sherp.exe
+E:\My Docs\ETV Pro\Visual Studio\ETV Pro VS\ETV Book Library C-Sherp\ETV Book Library C-Sherp\obj\Debug\ETV Book Library C-Sherp.pdb
+E:\My Docs\ETV Pro\Visual Studio\ETV Pro VS\ETV Book Library C-Sherp\ETV Book Library C-Sherp\obj\Debug\ETV_Book_Library_C_Sherp.frmBookList.resources
+E:\My Docs\ETV Pro\Visual Studio\ETV Pro VS\ETV Book Library C-Sherp\ETV Book Library C-Sherp\obj\Debug\ETV_Book_Library_C_Sherp.frmEditor.resources
+E:\My Docs\ETV Pro\Visual Studio\ETV Pro VS\ETV Book Library C-Sherp\ETV Book Library C-Sherp\obj\Debug\ETV_Book_Library_C_Sherp.frmLogin.resources
+E:\My Docs\ETV Pro\Visual Studio\ETV Pro VS\ETV Book Library C-Sherp\ETV Book Library C-Sherp\obj\Debug\ETV_Book_Library_C_Sherp.frmSplash.resources
+E:\My Docs\ETV Pro\Visual Studio\ETV Pro VS\ETV Book Library C-Sherp\ETV Book Library C-Sherp\obj\Debug\ETV_Book_Library_C_Sherp.frmCategory.resources
+E:\My Docs\ETV Pro\Visual Studio\ETV Pro VS\ETV Book Library C-Sherp\ETV Book Library C-Sherp\obj\Debug\ETV_Book_Library_C_Sherp.frmIssue.resources
+D:\VS Project\ETV Book Library C-Sherp\ETV Book Library C-Sherp\bin\Debug\ETV Book Library C-Sherp.exe.config
+D:\VS Project\ETV Book Library C-Sherp\ETV Book Library C-Sherp\bin\Debug\ETV Book Library C-Sherp.exe
+D:\VS Project\ETV Book Library C-Sherp\ETV Book Library C-Sherp\bin\Debug\ETV Book Library C-Sherp.pdb
+D:\VS Project\ETV Book Library C-Sherp\ETV Book Library C-Sherp\obj\Debug\ETV Book Library C-Sherp.csprojAssemblyReference.cache
+D:\VS Project\ETV Book Library C-Sherp\ETV Book Library C-Sherp\obj\Debug\ETV_Book_Library_C_Sherp.frmBookList.resources
+D:\VS Project\ETV Book Library C-Sherp\ETV Book Library C-Sherp\obj\Debug\ETV_Book_Library_C_Sherp.frmCategory.resources
+D:\VS Project\ETV Book Library C-Sherp\ETV Book Library C-Sherp\obj\Debug\ETV_Book_Library_C_Sherp.frmEditor.resources
+D:\VS Project\ETV Book Library C-Sherp\ETV Book Library C-Sherp\obj\Debug\ETV_Book_Library_C_Sherp.frmIssue.resources
+D:\VS Project\ETV Book Library C-Sherp\ETV Book Library C-Sherp\obj\Debug\ETV_Book_Library_C_Sherp.frmLogin.resources
+D:\VS Project\ETV Book Library C-Sherp\ETV Book Library C-Sherp\obj\Debug\ETV_Book_Library_C_Sherp.frmSplash.resources
+D:\VS Project\ETV Book Library C-Sherp\ETV Book Library C-Sherp\obj\Debug\ETV_Book_Library_C_Sherp.mdiMain.resources
+D:\VS Project\ETV Book Library C-Sherp\ETV Book Library C-Sherp\obj\Debug\ETV_Book_Library_C_Sherp.Properties.Resources.resources
+D:\VS Project\ETV Book Library C-Sherp\ETV Book Library C-Sherp\obj\Debug\ETV Book Library C-Sherp.csproj.GenerateResource.cache
+D:\VS Project\ETV Book Library C-Sherp\ETV Book Library C-Sherp\obj\Debug\ETV Book Library C-Sherp.exe
+D:\VS Project\ETV Book Library C-Sherp\ETV Book Library C-Sherp\obj\Debug\ETV Book Library C-Sherp.pdb
